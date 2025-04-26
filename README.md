@@ -2,7 +2,7 @@
 This project analyzes the sales performance of a superstore using Power BI. The dashboard provides interactive visuals to track key metrics.The project uses data modeling, DAX calculations, and dynamic visualizations to present clear and actionable business insights.
 
 Dataset
-Source:https://github.com/gokul2610/SuperStore-Analysis-Dashboard/blob/main/Superstore.csv
+- Source:https://github.com/gokul2610/SuperStore-Analysis-Dashboard/blob/main/Superstore.csv
 
 Objectives:
 - Analyze overall Sales, Profit, and Quantity.
@@ -33,7 +33,9 @@ Applied slicers for easy filtering (Region, Category, Segment, Year).
 Used clean and modern design principles.
 Added proper titles and tooltips for better understanding.
 
-Dashboards:https://github.com/gokul2610/SuperStore-Analysis-Dashboard/blob/main/Dashboard.pdf
+Dashboards:
+https://github.com/gokul2610/SuperStore-Analysis-Dashboard/blob/main/Dashboard.pdf
 
 Conclusion:
+
 This project demonstrates the power of interactive dashboards in extracting meaningful insights from sales data. It helps businesses make informed decisions based on real-time analytics and visual storytelling.
