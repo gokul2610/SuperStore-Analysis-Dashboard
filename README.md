@@ -5,11 +5,11 @@ Dataset
 Source:
 
 Objectives:
-Analyze overall Sales, Profit, and Quantity.
-Identify high-performing and underperforming products.
-Study sales trends over time.
-Understand customer segmentation and buying behavior.
-Analyze regional sales and profitability performance.
+- Analyze overall Sales, Profit, and Quantity.
+- Identify high-performing and underperforming products.
+- Study sales trends over time.
+- Understand customer segmentation and buying behavior.
+- Analyze regional sales and profitability performance.
 
 Step:
 Data Loading:
