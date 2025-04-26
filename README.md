@@ -12,23 +12,23 @@ Objectives:
 - Analyze regional sales and profitability performance.
 
 Step:
-Data Loading:
+- Data Loading:
 Imported the Superstore dataset into Power BI.
-Data Cleaning:
+- Data Cleaning:
 Checked for missing or incorrect data.
 Formatted Date columns properly.
 Created proper data types for each field.
-DAX Measures Created:
+- DAX Measures Created:
 Total Sales = SUM(Sales)
 Total Profit = SUM(Profit)
 Total Quantity = SUM(Quantity)
-Visualizations Used:
+- Visualizations Used:
 KPI Cards (Total Sales, Total Profit, Total Quantity)
 Sales Trend Line Chart (Sales over time)
 Profit by Region Map
 Category & Sub-Category Wise Sales Bar Charts
 Top 10 Customers by Sales
-Dashboard Design:
+- Dashboard Design:
 Applied slicers for easy filtering (Region, Category, Segment, Year).
 Used clean and modern design principles.
 Added proper titles and tooltips for better understanding.
